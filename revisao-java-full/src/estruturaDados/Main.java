@@ -1,3 +1,4 @@
+package estruturaDados;
 import java.util.Locale;
 
 public class Main {

@@ -1,3 +1,4 @@
+package estruturaDados;
 import java.util.Scanner;
 
 public class EstruturaCondicional05 {

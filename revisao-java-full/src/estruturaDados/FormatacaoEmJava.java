@@ -1,3 +1,4 @@
+package estruturaDados;
 
 public class FormatacaoEmJava {
 
